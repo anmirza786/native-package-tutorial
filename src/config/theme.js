@@ -1,0 +1,28 @@
+export default {
+  COLORS: {
+    PURPLE: '#8735D8',
+    GREEN: '#59B294',
+    TEXT: '#1D2236',
+    PRIMARY: '#788EFF',
+    PRIMARY_SECOND: '#2499fe',
+    PRIMARY_SECOND_LIGHT: '#bce0ff',
+    PRIMARY_BUTTON: '#4B68FF',
+    ERROR: '#CA0B00',
+    SUCCESS: '#00bf65',
+    WARNING: '#FB6340',
+    RED: '#ed7d85',
+    MUTED: '#ADB5BD',
+    WHITE: '#FFFFFF',
+    BLACK: '#000000',
+    GRAY_DARK: '#1D2236B2',
+    GRAY: '#D3D3D3',
+    GRAY_LIGHT: '#D9D9D9',
+    INPUT_GRAY: '#FAFAFA',
+    YELLOW: '#FFC027',
+    HIGHLIGHT: '#EFF4F7',
+    WHITE: '#FFFFFF',
+  },
+  PADDING: {
+    horizonatal: 30,
+  },
+};
